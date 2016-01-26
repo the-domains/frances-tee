@@ -1,0 +1,28 @@
+name: Frances Tee
+favicon: null
+layout_spectrum: 0.601675040088594
+typography_spectrum: 0.5598976192995906
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.05138018052093685
+  lightness: 0.9560295131523162
+  saturation: 0.4439807531889528
+  rhythmicContrast: 0.9253770802170038
+purpose: []
